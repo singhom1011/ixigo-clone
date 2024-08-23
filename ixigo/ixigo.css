@@ -1,0 +1,128 @@
+#but{
+    position:absolute;
+    top: 38px;
+    right: 25px;
+    font-size:large;
+    border: solid;
+    background-color: rgb(2, 211, 248);
+    border-radius: 26px;
+
+}
+h3{
+    position: absolute;
+    top: 20px;
+    right: 200px;
+}
+#d1{
+    border: solid;
+    text-decoration: none;
+
+    background-color: azure;
+    border-color: azure;
+}
+body{
+    background-color: beige;
+}
+form{
+    color: rgb(49, 227, 26);
+    font-size: x-large;
+    border: solid;
+    padding: 40px;
+    width: 250px;
+    background-image: url(https://imgeng.jagran.com/images/2022/apr/railways1650074183526.jpg);
+    background-size: 330px 270px;
+}
+#From{
+    margin-bottom: 5%;
+}
+#To{
+    margin-bottom: 5%;
+}
+#date{
+    margin-bottom: 5%;
+}
+#term{
+    margin-bottom: 5%;
+}
+#but2{
+    background-color: aqua;
+}
+h1{
+    color: rgb(247, 244, 245);
+    font-style: italic;
+    font: 300;
+    border: solid red;
+    border-width: 10%;
+
+    background-color: red;
+
+}
+body{
+    background-color:rgb(176, 172, 172);
+    
+
+}
+#but3{
+    position: fixed;
+    top: 80%;
+    right: 3%;
+    font-size: medium;
+    border: solid;
+    border-radius: 30%;
+    background-color: cyan;
+}
+#para1{
+    color: crimson;
+    font-size: medium;
+    border: solid gray;
+    
+}
+#para2{
+    font-size: x-large;
+    color: rgb(0, 0, 0);
+}
+
+a{
+    text-decoration: none;
+    color: azure;
+}
+#box1{
+    position: relative;
+    height: 200px;
+    width: 240px;
+    border: 2px solid black;
+    background-image: url("https://www.theknot.com/tk-media/images/9f14737c-2be7-4b2f-80ed-d9c36556e7dd");
+    background-size: cover;
+    border-radius: 60%;
+}
+#box2{
+    position: relative;
+    height: 200px;
+    width: 240px;
+    border: 2px solid black;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQV8w40s0Yjw4SZwwaeCR_aMklIgmRFfxt3hw&s");
+    background-size: cover;
+    border-radius: 60%;
+}
+#box3{
+    position: relative;
+    height: 200px;
+    width: 240px;
+    border: 2px solid black;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-CZtuUKuKMDpZv7zFiXngxSQqk7etAJM2uQ&s");
+    background-size: cover;
+    border-radius: 60%;
+}
+#box4{
+    position: relative;
+    height: 200px;
+    width: 240px;
+    border: 2px solid black;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRgUJ9F97Y-3dqqzTsLkKAdO2-uKj-ykjRlQ&s");
+    background-size: cover;
+    border-radius: 60%;
+}
+.img{
+    display: inline-block;
+    margin-left: 45px;
+}
